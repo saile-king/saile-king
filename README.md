@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Elias Ibañez.  
 
-<!--
-**saile-king/saile-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador de Software especializado en frontend con **Angular**, y backend con **Node.js (NestJS) y PHP (Laravel)**.  
+💡 Me encanta crear soluciones web escalables y optimizadas.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías  
+🔹 JavaScript | TypeScript | Angular  
+🔹 Node.js (NestJS) | PHP (Laravel)  
+🔹 MySQL | PostgreSQL  
+🔹 HTML | CSS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--## 📌 Proyectos Destacados  
+🔹 [Gestión de compras a crédito](https://github.com/tu-repo) – Aplicación web con API para control de pagos.  
+🔹 [Tienda virtual en Vue.js](https://github.com/tu-repo) – Plataforma de e-commerce con autenticación y carrito de compras.  
 -->
+
+## 📫 Contacto  
+💼 [LinkedIn](https://www.linkedin.com/in/elias-iba%C3%B1ez/) 
+📧 Email: [elias-ibanez@outlook.es](mailto:elias-ibanez@outlook.es) 
+
